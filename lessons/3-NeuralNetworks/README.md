@@ -45,4 +45,4 @@ In this section we will learn about:
 * [Perceptron](03-Perceptron/README.md), one of the earliest neural network models for two-class classification
 * [Multi-layered networks](04-OwnFramework/README.md) with a paired notebook [how to build our own framework](04-OwnFramework/OwnFramework.ipynb)
 * [Neural Network Frameworks](05-Frameworks/README.md), with these notebooks: [PyTorch](05-Frameworks/IntroPyTorch.ipynb) and [Keras/Tensorflow](05-Frameworks/IntroKerasTF.ipynb)
-* [Overfitting](05-Frameworks/Overfitting.md)
+* [Overfitting]([05-Frameworks/Overfitting.md](https://github.com/cutePanda123/AI-For-Beginners/tree/main/lessons/3-NeuralNetworks/05-Frameworks#overfitting)https://github.com/cutePanda123/AI-For-Beginners/tree/main/lessons/3-NeuralNetworks/05-Frameworks#overfitting)
